@@ -1,2 +1,3 @@
-# Utilities
-Personal utilities
+# Personal utilities
+
+Some handy programs and code
